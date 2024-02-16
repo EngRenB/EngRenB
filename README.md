@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EngRenB
-- 👀 I’m interested in Web development and web Design 
-- 🌱 I’m currently learning HTML, CSS, JS, C++ and C
-- 💞️ I’m looking to collaborate on creating websites and web applications
+- 👀 I’m interested in Data Science and Machine Learning
+- 🌱 I’m currently learning Python and R programming 
+- 💞️ I’m looking to collaborate on awesome projects!
 
 <!---
 EngRenB/EngRenB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
