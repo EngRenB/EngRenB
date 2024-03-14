@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EngRenB
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python and R programming 
+- 🌱 I’m currently learning Python, R programming linear Algebra 
 - 💞️ I’m looking to collaborate on awesome projects!
 
 <!---
